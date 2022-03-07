@@ -13,4 +13,4 @@ Deliverable 2: Reducing Data Dimensions Using PCA
 Deliverable 3: Clustering Cryptocurrencies Using K-means
 Deliverable 4: Visualizing Cryptocurrencies Results
 
-Here are the [Deliveralbes](hhttps://github.com/kellyd7/Cryptocurrencies/blob/main/crypto_clustering.ipynb)
+Here are the [Deliveralbes](https://github.com/kellyd7/Cryptocurrencies/blob/main/crypto_clustering.ipynb)
