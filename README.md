@@ -8,9 +8,9 @@ Martha is a senior manager for the Advisory Services Team at Accountability Acco
 The data Martha will be working with is not ideal, so it will need to be processed to fit the machine learning models. Since there is no known output for what Martha is looking for, she has decided to use unsupervised learning. To group the cryptocurrencies, Martha decided on a clustering algorithm. She’ll use data visualizations to share her findings with the board.
 
 ## What was Accomplished?
-Deliverable 1: Preprocessing the Data for PCA
-Deliverable 2: Reducing Data Dimensions Using PCA
-Deliverable 3: Clustering Cryptocurrencies Using K-means
-Deliverable 4: Visualizing Cryptocurrencies Results
+- Deliverable 1: Preprocessing the Data for PCA
+- Deliverable 2: Reducing Data Dimensions Using PCA
+- Deliverable 3: Clustering Cryptocurrencies Using K-means
+- Deliverable 4: Visualizing Cryptocurrencies Results
 
 Here are the [Deliveralbes](https://github.com/kellyd7/Cryptocurrencies/blob/main/crypto_clustering.ipynb)
